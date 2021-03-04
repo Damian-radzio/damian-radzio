@@ -1,7 +1,8 @@
-## Damian Radecki - (not yet) Frontend Developer!
-### Hi! Nice to see you here, I am begginer frontend Developer :chart_with_upwards_trend: but i see that it is more than just job, this is passion!
-#### I'm Polish, i live near to Katowice in Silesia
-## My Skills:
+# Damian Radecki - (not yet) Frontend Developer!
+### Hey, welcome to my Github page, someday I'll be a Front-end web developer!
+# About Me
+### I'm 18 and I live in Poland. I love animals :dog: and active life :medal_sports: but programming the most :keyboard:
+# My Skills:
 ### HTML/CSS + Sass :heavy_check_mark:,
-### JavaScript ES6+ :heavy_check_mark:  - but i am not perfect (yet),
-### Currently i learn React :heavy_multiplication_x:
+### JavaScript/ES6+ - still learning, and i love it! :heavy_check_mark: 
+### I am currently working on React and learning it :heavy_multiplication_x:
