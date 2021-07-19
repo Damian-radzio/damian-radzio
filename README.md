@@ -6,3 +6,5 @@
 ### HTML/CSS + Sass :heavy_check_mark:,
 ### JavaScript/ES6+ - still learning, and i love it! :heavy_check_mark: 
 ### I am currently working on React and learning it  :heavy_check_mark: 
+### NPM :heavy_check_mark: 
+### GIT :heavy_check_mark: 
