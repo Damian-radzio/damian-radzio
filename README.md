@@ -2,7 +2,7 @@
 ### Hey! welcome to my Github page.
 # About Me
 ### I'm 18 and I live in Poland. 
-#### Working for: https://nubisoft.pl/
+#### Working for: https://nubisoft.pl/ 🔥
 # My Skills:
 ### HTML/CSS + Sass :heavy_check_mark:,
 ### JavaScript/ES6+ - still learning, and i love it! :heavy_check_mark: 
