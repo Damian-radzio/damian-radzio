@@ -1,4 +1,4 @@
-# Damian Radecki - Junior Frontend Developer!
+# Damian Radecki - Junior Frontend Developer
 ## Working for: https://nubisoft.pl/ 🔥
 
 # My Skills:
